@@ -6,3 +6,6 @@ body{
     margin:0 auto;
     background-color:teal;
 }
+table{
+    border:1px solid blue;
+}
